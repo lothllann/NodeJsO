@@ -1,0 +1,19 @@
+{
+  "name": "nodejso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./api/index.js",
+  "scripts": {
+    "start": "nodemon ./api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
